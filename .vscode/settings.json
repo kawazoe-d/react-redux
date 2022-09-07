@@ -1,0 +1,20 @@
+{
+"editor.formatOnSave": true,
+"[JavaScript]": {
+"editor.formatOnSave": false
+},
+"[JavaScriptreact]": {
+"editor.formatOnSave": false
+},
+"[typescript]": {
+"editor.formatOnSave": false
+},
+"[typescriptreact]": {
+"editor.formatOnSave": false
+},
+"editor.codeActionsOnSave": {
+"source.fixAll": true,
+"source.fixAll.eslint": false
+},
+"prettier.disableLanguages": ["JavaScript", "JavaScriptreact", "typescript", "typescriptreact"]
+}
